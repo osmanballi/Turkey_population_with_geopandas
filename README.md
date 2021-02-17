@@ -1,7 +1,15 @@
 Showing the Population of Turkey on the Map with Python (Geopandas)
-### <i class="fab fa-gitlab fa-fw" style="color:red; font-size:.85em" aria-hidden="true"></i> Youtube
+<div class="panel panel-danger">
+**Youtube**
+{: .panel-heading}
+<div class="panel-body">
+
 > Part1: https://www.youtube.com/watch?v=s3RJ8oeTvXQ&t=37s,
 > Part2: https://www.youtube.com/watch?v=4ox02WgiTWk
+
+</div>
+</div>
+
 
 #### <span style="color: blue">geopandas installation : </span>https://towardsdatascience.com/geopandas-installation-the-easy-way-for-windows-31a666b3610f
 #### <span style="color: blue">Turkey map data : </span>http://www.diva-gis.org/gdata
